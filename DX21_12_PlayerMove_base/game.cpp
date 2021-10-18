@@ -48,6 +48,7 @@ ID3D11ShaderResourceView* gpTexture; // テクスチャ用変数
 GameObject gObjects[MAX_OBJECT];  // オブジェクト配列
 GameObject* gpPlayer = gObjects + 1;
 
+//テクスチャ達
 Sprite* texter;
 Sprite* texter1;
 

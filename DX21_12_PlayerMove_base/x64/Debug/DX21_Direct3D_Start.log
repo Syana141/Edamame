@@ -1,2 +1,16 @@
-﻿  game.cpp
-  DX21_Direct3D_Start.vcxproj -> C:\Users\naoki\Desktop\DX21_12_PlayerMove_base\x64\Debug\DX21_Move.exe
+﻿  compilation header save succeeded; see C:\Users\naoki\Documents\GitHub\Edamame\DX21_12_PlayerMove_base\ps.h
+  animator.cpp
+  CharController.cpp
+  direct3d.cpp
+  WICTextureLoader.cpp
+  GameObject.cpp
+  game.cpp
+  GameTimer.cpp
+  input.cpp
+  main.cpp
+  ObjectGenerator.cpp
+  Sprite.cpp
+c:\users\naoki\documents\github\edamame\dx21_12_playermove_base\sprite.cpp(57): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\naoki\documents\github\edamame\dx21_12_playermove_base\sprite.cpp(58): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  DX21_Direct3D_Start.vcxproj -> C:\Users\naoki\Documents\GitHub\Edamame\DX21_12_PlayerMove_base\x64\Debug\DX21_Move.exe
